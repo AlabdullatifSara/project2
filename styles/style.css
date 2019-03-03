@@ -29,6 +29,7 @@
     background-position: center center;
   }
   
+  /* Sara: To show the content change display to block */
   #popUp.loader .container {
     display: none;
   }
@@ -114,7 +115,7 @@
   header #search input {
     position: absolute;
     right: 20px;
-    /*top: 10px;*/
+    /* top: 10px; */
     padding: 8px 0;
     width: 0;
     transition: 0.2s all;
